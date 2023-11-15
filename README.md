@@ -1,26 +1,27 @@
-##¡Hola, soy Mateo!👋##
+# ¡Hola, soy Mateo!👋
 
-###Sobre Mi
+### Sobre Mi
 
-*Estudiante de la tecnología en **Análisis y Desarrollo de Softare**. 🤓
+* Estudiante de la tecnología en **Análisis y Desarrollo de Softare**. 🤓
 
-*Apasionado por el desarrollo Web. 🎨
+* Apasionado por el desarrollo Web. 🎨
 
-*Artista Front-End y Arquitecto Back-End (Formandome). 🎯
+* Artista Front-End y Arquitecto Back-End (Formandome). 🎯
 
-*Amante de la Naturaleza, la música y la lectura. 🌄
+* Amante de la Naturaleza, la música y la lectura. 🌄
 
 
-###Habilidades
+### Habilidades
 
-*HTML, CSS, JavaScript. 🎨
+* HTML, CSS, JavaScript. 🎨
 
-*PHP, MySQL, Java. 🛠
+* PHP, MySQL, Java. 🛠
 
-###Objetivos
+### Objetivos
 
-*Entrar al mundo laboral y aportar con mis conocimientos para el impacto positivo del planeta.
+* Entrar al mundo laboral y aportar con mis conocimientos para el impacto positivo del planeta.
 
-*Si estás buscando un desarrollador de software creativo y recursivo, no dudes en contactarme.
+* Si estás buscando un desarrollador de software creativo y recursivo, no dudes en contactarme.
 
-###P.D.: Si quieres saber más sobre mí, puedes leer mi blog 💻.
+### P.D.: Si quieres saber más sobre mí, puedes leer mi blog:
+     * https://matthdev.netlify.app/ 💻
