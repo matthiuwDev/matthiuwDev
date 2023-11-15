@@ -1,16 +1,26 @@
-### Hi there 👋
+##¡Hola, soy Mateo!👋
 
-<!--
-**Mate4o25032006/Mate4o25032006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Sobre Mi
 
-Here are some ideas to get you started:
+*Estudiante de la tecnología en **Análisis y Desarrollo de Softare**. 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Apasionado por el desarrollo Web. 🎨
+
+*Artista Front-End y Arquitecto Back-End (Formandome). 🎯
+
+*Amante de la Naturaleza, la música y la lectura. 🌄
+
+
+###Habilidades
+
+*HTML, CSS, JavaScript. 🎨
+
+*PHP, MySQL, Java. 🛠
+
+###Objetivos
+
+*Entrar al mundo laboral y aportar con mis conocimientos para el impacto positivo del planeta.
+
+*Si estás buscando un desarrollador de software creativo y recursivo, no dudes en contactarme.
+
+###P.D.: Si quieres saber más sobre mí, puedes leer mi blog 💻.
