@@ -21,7 +21,5 @@
 
 * Entrar al mundo laboral y aportar con mis conocimientos para el impacto positivo del planeta.
 
-* Si estás buscando un desarrollador de software creativo y recursivo, no dudes en contactarme.
-
 ### P.D.: Si quieres saber más sobre mí, puedes leer mi blog:
      * https://matthdev.netlify.app/ 💻
