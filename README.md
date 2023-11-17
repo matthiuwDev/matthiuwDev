@@ -22,4 +22,4 @@
 * Entrar al mundo laboral y aportar con mis conocimientos para el impacto positivo de la tecnología.
 
 ### P.D.: Si quieres saber más sobre mí, puedes leer mi blog:
-     * https://matthdev.netlify.app/ 💻
+     * [Mi Web](https://matthdev.netlify.app/)
