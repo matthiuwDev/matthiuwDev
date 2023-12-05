@@ -46,6 +46,4 @@
 
 ------
 
-Credit: [Anderson Mendoza](https://github.com/andermendoza)
-
-Last Edited on: 26/09/2022
+![Mate4o25032006's Stats](https://github-readme-stats.vercel.app/api?username=Mate4o25032006&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
