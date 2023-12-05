@@ -1,6 +1,6 @@
 # ¡Hola, soy Mateo!👋
 
-<h3> 👨‍🦱: &nbsp;Sobre Mi: </h3>
+<h3> 👨‍🦱 &nbsp;Sobre Mi: </h3>
 
 * Estudiante de la tecnología en **Análisis y Desarrollo de Softare**. 🤓
 
