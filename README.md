@@ -2,7 +2,7 @@
 
 <h3> 👨‍🦱 &nbsp;Sobre Mi: </h3>
 
-* Estudiante de la tecnología en **Análisis y Desarrollo de Softare**. 🤓
+* Estudiante de la tecnología en **Análisis y Desarrollo de Software**. 🤓
 
 * Apasionado por el desarrollo Web. 🎨
 
