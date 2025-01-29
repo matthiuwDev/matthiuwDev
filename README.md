@@ -54,9 +54,9 @@
 <br/> 
 <p>
 
-![Mate4o25032006's Stats](https://github-readme-stats.vercel.app/api?username=Mate4o25032006&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Mate4o25032006's Stats](https://github-readme-stats.vercel.app/api?username=matthiuwDev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Mate4o25032006's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mate4o25032006&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Mate4o25032006's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthiuwDev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 </p>
 <br/>
